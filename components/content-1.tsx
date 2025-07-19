@@ -12,7 +12,7 @@ export default function ContentSection() {
           <div className="relative">
             <div className="aspect-[76/59] relative rounded-2xl bg-gradient-to-b from-zinc-300 to-transparent p-px dark:from-zinc-700">
               <Image
-                src="/payments.png"
+                src="https://tailark.com/_next/image?url=%2Fpayments.png&w=3840&q=75"
                 alt="Payments illustration"
                 width={1207}
                 height={929}
@@ -20,7 +20,7 @@ export default function ContentSection() {
                 priority
               />
               <Image
-                src="/payments.png"
+                src="https://tailark.com/_next/image?url=%2Fpayments.png&w=3840&q=75"
                 alt="Payments illustration (dark)"
                 width={1207}
                 height={929}
@@ -47,7 +47,7 @@ export default function ContentSection() {
                 perfect fusion of simplicity and versatility.”
               </p>
               <div className="mt-4 space-y-2">
-                <cite className="block font-medium">John Doe, CEO</cite>
+                <cite className="block font-medium">Chandra Shekhar Saini</cite>
                 <Image
                   src="https://html.tailus.io/blocks/customers/nvidia.svg"
                   alt="Nvidia Logo"
