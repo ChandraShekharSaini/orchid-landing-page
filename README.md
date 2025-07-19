@@ -6,7 +6,7 @@ A modern, responsive, and SEO-optimized landing page built with **Next.js 14**, 
 
 ## 🚀 Demo
 
-[Live Demo](https://your-deployed-site-link.com)
+[Live Demo](https://orchid-landing-page.vercel.app/)
 
 ---
 
@@ -33,6 +33,24 @@ A modern, responsive, and SEO-optimized landing page built with **Next.js 14**, 
 - **Vercel / Netlify** (for deployment)
 
 ---
+## 📥 Installation
 
-## 📂 Folder Structure
+To set up the project locally, follow these steps:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/orchid-landing.git
+
+# 2. Navigate into the project directory
+cd orchid-landing
+
+# 3. Install dependencies
+npm install
+# or
+pnpm install
+
+# 4. Start the development server
+npm run dev
+
+
 
