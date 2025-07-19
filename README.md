@@ -25,12 +25,14 @@ A modern, responsive, and SEO-optimized landing page built with **Next.js 14**, 
 
 ## 🛠️ Tech Stack
 
-- **Next.js 14**
-- **React 18**
-- **Tailwind CSS**
-- **TypeScript** (if used)
-- **ESLint & Prettier** (for code quality)
-- **Vercel / Netlify** (for deployment)
+- ⚙️ [**Next.js 14**](https://nextjs.org/) — The React Framework for Production
+- ⚛️ [**React 18**](https://reactjs.org/) — A JavaScript library for building user interfaces
+- 🎨 [**Tailwind CSS**](https://tailwindcss.com/) — Utility-first CSS framework for rapid UI development
+- 🟦 [**TypeScript**](https://www.typescriptlang.org/) — Typed JavaScript at Scale *(if used)*
+- 💠 [**ShadCN/UI**](https://ui.shadcn.com/) — Beautifully designed components built with Radix UI and Tailwind
+- 🧹 [**ESLint**](https://eslint.org/) & [**Prettier**](https://prettier.io/) — Code quality and formatting tools
+- ☁️ [**Vercel**](https://vercel.com/) / 🌐 [**Netlify**](https://www.netlify.com/) — Modern deployment platforms
+
 
 ---
 ## 📥 Installation
